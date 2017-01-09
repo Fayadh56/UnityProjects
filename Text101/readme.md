@@ -1,4 +1,4 @@
-/* Project Name: Text101 - Hitman - Piano Redemption
+  Project Name: Text101 - Hitman - Piano Redemption
  * Creator: Fayadh A. 
  * Github: @fayadh56
  * Unity 4.6.9
@@ -9,5 +9,3 @@
  * -----------------------------------------------------------------------
  * To Do:
  * Add the Second Scene, from the Story. 
- *
- */
