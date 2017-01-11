@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\NumberWizardUI\Assets\LevelManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\LevelManager.cs">
     <Files>
-      <File FileName="..\NumberWizardUI\Assets\LevelManager.cs" Line="17" Column="57" />
+      <File FileName="Assets\LevelManager.cs" Line="17" Column="57" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
