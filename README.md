@@ -6,5 +6,5 @@
 
 
 <h2> Roll A Ball - Finished on 28th/01/17 </h2>
-  _*Simple Roll a Ball game, that collects crate objects. Might add new levels later, who knows.
-    Also Included is a Roll-A-Ball.exe in the /Builds folder_*
+ - _Simple Roll a Ball game, that collects crate objects. Might add new levels later, who knows.
+    Also Included is a Roll-A-Ball.exe in the /Builds folder_
